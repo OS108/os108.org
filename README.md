@@ -1,32 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to OS108 Website
 
-You can use the [editor on GitHub](https://github.com/OS108/os108.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+OS108 is a fast, open and Secure replacement Operating System for Windows and macOS. Built on top of NetBSD, OS108 provides a simple desktop-oriented operating system.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### OS108's goal is:
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+- Open Source standard
+- Adopting better licenses for fostering innovation. Prefered license for new development is [ISC](https://www.isc.org/downloads/software-support-policy/isc-license/)
+- Safe and Secure
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
