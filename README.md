@@ -6,7 +6,6 @@ OS108 is a fast, open and Secure replacement Operating System for Windows and ma
 
 
 ```markdown
-Syntax highlighted code block
 
 
 - Open Source standard
