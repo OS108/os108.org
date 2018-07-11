@@ -9,7 +9,7 @@ OS108 is a fast, open and Secure replacement Operating System for Windows and ma
 
 
 - Open Source standard
-- Adopting better licenses for fostering innovation. Prefered license for new development is [ISC](https://www.isc.org/downloads/software-support-policy/isc-license/)
+- Adopting better licenses for fostering innovation. Prefered license for new development is ISC
 - Safe and Secure
 
 ```
