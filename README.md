@@ -14,9 +14,9 @@ OS108 is a fast, open and Secure replacement Operating System for Windows and ma
 
 ```
 ## Community:
-Telegram Group : [https://t.me/os108org] (https://t.me/os108org)
+Telegram Group : <a href="https://t.me/os108org">https://t.me/os108org</a>
 
-Forums : [https://forums.os108.org] (https://forums.os108.org)
+Forums : <a href="https://forums.os108.org">https://forums.os108.org</a>
 
 
 
