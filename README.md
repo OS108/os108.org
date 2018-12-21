@@ -27,3 +27,7 @@ Forums : <a href="https://forums.os108.org">https://forums.os108.org</a>
 ### 2.Can I help contribute to the project? 
 
 -> Yes. We are always in need for contributors who want to join the project. If you’re not a developer you can still help in the form of how-to guides and other user-centric documentation and support forums.
+
+
+
+Made with <span style="color: #e25555;">&hearts;</span> on Earth
