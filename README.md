@@ -23,7 +23,7 @@ Forums : <a href="https://forums.os108.org">https://forums.os108.org</a>
 ### F.A.Q.
 ### 1.Why name OS108?
 
--> 1 and 0 being binary bits when represented 8 bits forms a byte also the distance of Earth from the Sun is about 108 times the diameter of the Sun. hence the name
+-> 1 and 0 being binary bits when represented 8 bits forms a byte also the distance of Earth from the Sun is about 108 times the diameter of the Sun. hence the name. And logo is called "vyom" meaning 'Space'
 
 ### 2.Can I help contribute to the project? 
 
