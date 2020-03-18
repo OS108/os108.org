@@ -3,8 +3,8 @@
 OS108 is a fast, open and Secure replacement Operating System for Windows and macOS. Built on top of NetBSD, OS108 provides a simple desktop-oriented operating system.
 
 ![os108_slim_screenshot](https://user-images.githubusercontent.com/17174485/50375641-aea3b900-0626-11e9-8141-9bfc4fa91c8d.png)
-![os108_MATE_screenshot](https://i.imgur.com/ZFuG0BE.png)
-Downloads OS108-20190422 : 
+![os108_MATE_screenshot](https://i.imgur.com/JycFNZg_d.jpg)
+Downloads OS108-9.0 amd64 : 
 <a href="https://forums.os108.org/d/27-os108-9-0-amd64-mate-released">Download ISO</a>
 
 ### OS108's goal is:
