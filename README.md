@@ -4,8 +4,11 @@ OS108 is a fast, open and Secure replacement Operating System for Windows and ma
 
 ![os108_slim_screenshot](https://user-images.githubusercontent.com/17174485/50375641-aea3b900-0626-11e9-8141-9bfc4fa91c8d.png)
 [![OS108-desktop.png](https://i.postimg.cc/brZ2V9Hs/OS108-desktop.png)](https://postimg.cc/wRdv7Jrp)
+[![OS108-firefox.png](https://i.postimg.cc/NGbcdw59/OS108-firefox.png)](https://postimg.cc/14g2z20s)
 Downloads OS108-9.0 amd64 : 
 <a href="https://forums.os108.org/d/27-os108-9-0-amd64-mate-released">Download ISO</a>
+
+### Announcement [18th March 2020] : OS108-9.0 amd64 released 
 
 ### OS108's goal is:
 
