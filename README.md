@@ -1,5 +1,5 @@
 ## Welcome to OS108 Website
-<a href="https://os108.org">EN</a>  <a href="https://os108.org/index_es.html">ES</a>
+<a href="https://os108.org">EN</a>  
 
 OS108 is a fast, open and Secure Desktop Operating System built on top of NetBSD.
 
