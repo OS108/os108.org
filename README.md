@@ -17,7 +17,7 @@ Downloads OS108-9.1 amd64 :
 
 
 - Open Source standard
-- Adopting better licenses for fostering innovation. Prefered license for new development is ISC
+- Adopting better licenses for fostering innovation. Prefered license for new development is The NetBSD Foundation's (TNF) license is a “2 clause” license
 - Safe and Secure and Privacy focused
 
 ```
